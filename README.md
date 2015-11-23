@@ -4,4 +4,7 @@
 Compile in linux terminal
 
 g++ -std=c++0x myshell.cpp -o k
+
+And then execute
+
 ./k
